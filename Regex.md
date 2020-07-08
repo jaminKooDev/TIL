@@ -1,5 +1,5 @@
-# 정규식
-
+# 정규식(Regular Expression)
+## 정규식 표
 <table>
     <tr>
     	<th>패턴</th>
@@ -17,7 +17,14 @@
     	<td>*(별표)</td>
         <td>어떤 문자가 0 또는 그 이상 반복되는 것</td>
         <td>as*d<br>
-        	agd aerd <b>asssssd asd</b>
+        	agd aerd <b>asssssd ad</b>
+        </td>
+    </tr>
+    <tr>
+        <td>+(덧셈기호)</td>
+        <td>어떤 문자가 1 또는 그 이상 반복되는 것</td>
+        <td>as+b<br>
+            agd ad <b>asssssd asd</b>
         </td>
     </tr>
 </table>
