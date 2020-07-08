@@ -13,6 +13,12 @@
     </tr>
     <tr>
     	<td>str = regex.Replace(input, pattern)</td>
-    	<td>str = regex.sub(pattern, input)</td>
+    	<td>str = re.sub(pattern, input)</td>
+    </tr>
+    <tr>
+        <td>str.Substring(2,2)<br>
+            2번째 인덱스에서 2글자</td>
+        <td>str[2:4]
+            2번째 인덱스글자부터 4번째 인덱스 글자 전 까지 </td>
     </tr>
 </table>
