@@ -21,4 +21,10 @@
         <td>str[2:4]
             2번째 인덱스글자부터 4번째 인덱스 글자 전 까지 </td>
     </tr>
+    <tr>
+        <td>str.Indexof("string")</td>
+        <td>str.find("string")</td>
+        
+    </tr>    
+    
 </table>
