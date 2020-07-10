@@ -24,7 +24,9 @@
     <tr>
         <td>str.Indexof("string")</td>
         <td>str.find("string")</td>
-        
     </tr>    
-    
+    <tr>
+        <td>str = regex.Replace(input, pattern, replacement)</td>
+        <td>str = re.sub(pattern, replacement, input)</td>
+    </tr>
 </table>
