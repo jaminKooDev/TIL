@@ -7,7 +7,7 @@
         <th>예제</th>
     </tr>
     <tr>
-    	<td>,(콤마)</td>
+    	<td>.(점)</td>
         <td>어떤 문자 1개를 가르킨다.(\n 제외)</td>
         <td>a,d<br>
         	afffd aerd <b>aod</b>
@@ -22,6 +22,13 @@
     </tr>
     <tr>
         <td>+(덧셈기호)</td>
+        <td>어떤 문자가 1 또는 그 이상 반복되는 것</td>
+        <td>as+b<br>
+            agd ad <b>asssssd asd</b>
+        </td>
+    </tr>
+    <tr>
+        <td>.(점)</td>
         <td>어떤 문자가 1 또는 그 이상 반복되는 것</td>
         <td>as+b<br>
             agd ad <b>asssssd asd</b>
