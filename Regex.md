@@ -34,4 +34,12 @@
             agd ad <b>asssssd asd</b>
         </td>
     </tr>
+    <tr>
+        <td>^</td>
+        <td>이 패턴으로 시작해야 함</td>
+        <td>
+            ^ab<br>
+            agd ad <b>abd absadadd</b>
+        </td>
+    </tr>
 </table>
