@@ -28,13 +28,6 @@
         </td>
     </tr>
     <tr>
-        <td>.(점)</td>
-        <td>어떤 문자가 1 또는 그 이상 반복되는 것</td>
-        <td>as+b<br>
-            agd ad <b>asssssd asd</b>
-        </td>
-    </tr>
-    <tr>
         <td>^ </td>
         <td>이 패턴으로 시작해야 함</td>
         <td>
